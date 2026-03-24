@@ -1,1 +1,1 @@
-Openwrt для SmartBox Turbo+ под spi флешку на 64мб.
+Openwrt для SmartBox Turbo+ под spi на 64мб.
