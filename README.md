@@ -1,3 +1,3 @@
-Openwrt для SmartBox Turbo+ под spi на 64мб.
+Openwrt для Beeline SmartBox Turbo+ под spi на 64мб.
 
-Padavan для SmartBox Turbo+ под spi на 64мб.
+Padavan для Beeline SmartBox Turbo+ под spi на 64мб.
